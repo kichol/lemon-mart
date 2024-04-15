@@ -3,6 +3,7 @@ export enum Role {
   Clerk = 'clerk',
   Cashier = 'cashier',
   Manager = 'manager',
+  Szef = 'krzysio'
 }
 
 export enum AuthMode {
